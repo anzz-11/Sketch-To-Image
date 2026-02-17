@@ -82,12 +82,11 @@ pip install -r requirements.txt
 4️⃣ Install CUDA-enabled PyTorch (GPU systems)
 pip install torch --index-url https://download.pytorch.org/whl/cu118
 
-5️⃣ Run Backend
-uvicorn main:app
+5️⃣ Run run.py
 
-6️⃣ Launch Application
+6️⃣ Launchs Application
 
-Open:
+Opens:
 
 draw.html
 
